@@ -1,0 +1,1 @@
+Route to specific page, otherwise route to `index.html` using [serve](https://github.com/vercel/serve)
